@@ -2,7 +2,7 @@
   "name": "starter",
   "version": "1.0.0",
   "description": "js env starter",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
     "build": "webpack --mode production",
@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/homutovan/starter.git"
+    "url": "git+https://github.com/homutovan/AJS_1_4_1_unit-test_clear_functions.git"
   },
   "bugs": {
-    "url": "https://github.com/homutovan/starter/issues"
+    "url": "https://github.com/homutovan/AJS_1_4_1_unit-test_clear_functions/issues"
   },
-  "homepage": "https://github.com/homutovan/starter#readme",
+  "homepage": "https://github.com/homutovan/AJS_1_4_1_unit-test_clear_functions#readme",
   "author": "homutovan",
   "license": "ISC",
   "devDependencies": {
