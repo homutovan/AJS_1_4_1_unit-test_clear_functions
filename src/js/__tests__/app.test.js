@@ -10,6 +10,7 @@ test.each([
   [15, 'wounded'],
   [14.99, 'critical'],
   [5, 'critical'],
+  [0, 'critical'],
 ])(('Check health status for health value=%s, expects: %s'),
   (health, expected) => {
     const result = healthHandler({ name: 'Маг', health });
